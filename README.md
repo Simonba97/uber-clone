@@ -1,12 +1,19 @@
+
 # SIMONBA97 🧑🏻‍💻 // React Native ⚛️
 
-Uber clone with React Native and EXPO CLI.
+Uber APP clone with **React Native** and **EXPO CLI**.
 
-With ❤️ by [Simón Bustamante Alzate](https://instagram.com/simonba97)
+## Show Case
+![uber-clone-showcase.gif](./assets/uber-clone-showcase.gif)
 
 ## CRÉDITOS
-- [Simón Bustamante Alzate](https://instagram.com/simonba97)
 
-## LICENCIA 
+- [Simón Bustamante Alzate](https://instagram.com/simonba97)
+- [Sonny Sangha ](https://www.instagram.com/ssssangha/)
+  
+
+## LICENCIA
 
 [MIT](https://opensource.org/licenses/MIT)
+---
+> Based on content made by Papa React 
