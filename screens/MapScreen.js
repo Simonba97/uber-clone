@@ -22,7 +22,6 @@ const MapScreen = () => {
                     name='menu'
                 />
             </TouchableOpacity>
-            <Text>MapScreen</Text>
             <View style={tw`h-1/2`}>
                 <Map />
             </View>

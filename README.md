@@ -4,7 +4,7 @@
 Uber APP clone with **React Native** and **EXPO CLI**.
 
 ## Show Case
-![uber-clone-showcase.gif](./assets/uber-clone-showcase.gif)
+![uber-clone-showcase.gif](./assets/uber-clone-showcase.gif =x500)
 
 ## CRÉDITOS
 
